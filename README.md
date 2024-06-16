@@ -30,18 +30,22 @@ Clone the repository to your local machine:
 git clone https://github.com/Uttam1910/beats-3-landing-page.git
 
 
-Navigate to the project directory:
+##Navigate to the project directory:
+
 cd beats-3-landing-page
 
-**Usage**
+##Usage
+
 Open the index.html file in your preferred web browser to view the landing page.
 
-**Contributing**
+##Contributing
+
 Fork the repository.
 Create your feature branch (git checkout -b feature/AmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
